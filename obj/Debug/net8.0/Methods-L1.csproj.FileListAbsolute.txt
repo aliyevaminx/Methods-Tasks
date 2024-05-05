@@ -1,0 +1,14 @@
+C:\Users\Amin\Desktop\C#\Methods-L1\bin\Debug\net8.0\Methods-L1.exe
+C:\Users\Amin\Desktop\C#\Methods-L1\bin\Debug\net8.0\Methods-L1.deps.json
+C:\Users\Amin\Desktop\C#\Methods-L1\bin\Debug\net8.0\Methods-L1.runtimeconfig.json
+C:\Users\Amin\Desktop\C#\Methods-L1\bin\Debug\net8.0\Methods-L1.dll
+C:\Users\Amin\Desktop\C#\Methods-L1\bin\Debug\net8.0\Methods-L1.pdb
+C:\Users\Amin\Desktop\C#\Methods-L1\obj\Debug\net8.0\Methods-L1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\C#\Methods-L1\obj\Debug\net8.0\Methods-L1.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\C#\Methods-L1\obj\Debug\net8.0\Methods-L1.AssemblyInfo.cs
+C:\Users\Amin\Desktop\C#\Methods-L1\obj\Debug\net8.0\Methods-L1.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\C#\Methods-L1\obj\Debug\net8.0\Methods-L1.dll
+C:\Users\Amin\Desktop\C#\Methods-L1\obj\Debug\net8.0\refint\Methods-L1.dll
+C:\Users\Amin\Desktop\C#\Methods-L1\obj\Debug\net8.0\Methods-L1.pdb
+C:\Users\Amin\Desktop\C#\Methods-L1\obj\Debug\net8.0\Methods-L1.genruntimeconfig.cache
+C:\Users\Amin\Desktop\C#\Methods-L1\obj\Debug\net8.0\ref\Methods-L1.dll
